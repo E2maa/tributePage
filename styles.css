@@ -1,0 +1,85 @@
+
+html{
+  font-size: 10px;
+  font-family: Roboto, helvetica, arial, sans-serif;
+  
+}
+
+/*header below this line*/
+header{
+  text-align: center;
+  margin: 5vmin;
+}
+figcaption{
+  font-size: 1.5rem;
+  padding-bottom: 2.5vmin;
+  
+}
+.hTypography{
+  font-size: 10rem;
+}
+#description{
+  
+  font-size: 2.5em;
+  margin-top: -4.6vmin;
+  margin-bottom:10vmin;
+  
+}
+#image {
+  width: 45vmax;
+  max-width: 100%;
+  display: block;
+  margin: auto;
+}
+/*Header above this line*/
+
+/*Tribute main text below this line*/
+#tribute-info{
+  padding: 2.5vmin;
+  font-size:2.0rem;
+  background-color: #D3D3D3;
+  margin: 5vmin;
+}
+/*Tribute main text above this line*/
+
+/*Discography below this line*/
+aside{
+  font-size: 2.0rem;
+  margin: 5vmin;
+}
+h1, h2{
+  
+  font-family:"baloo 2", roboto, comfortaa, helvetica, sans-serif;
+  font-size:2.0em;
+  font-weight: bold;
+}
+h2{
+  font-weight:500;
+  padding-top:10.0vh;
+  font-size:1.5em;
+}
+ol{
+  line-height: 2.5;
+  margin-top: -4vmin;
+}
+#list1{
+  margin-top: -12vmin;
+  margin-bottom:-40px;
+}
+/*Discography above this line*/
+
+footer{
+  background-color: #D3D3D3;
+  width: 100%;
+  height: 10rem;
+  padding: 4rem;
+}
+footer, cite{
+  font-size: 1.5rem;
+  font-weight: 600;
+  font-family:"baloo 2", roboto, comfortaa, helvetica, sans-serif;
+  font-style: normal;
+  
+}
+
+
